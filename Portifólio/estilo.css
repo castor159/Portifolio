@@ -1,0 +1,30 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #f0f2f5;
+}
+
+.container{
+    width: 500px;
+    margin: 0 auto;
+    background-color: #ddd;
+}
+
+#photo-preview{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #6366f1;
+    background-color: #ddd;
+}
+
+#nameInput{
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.dark_mode{
+    background-color: black;
+}
